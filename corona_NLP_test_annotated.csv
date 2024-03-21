@@ -1,0 +1,25 @@
+No.,tweet,Prompt,generated annotations,explanation
+1,TRENDING New Yorkers encounter empty supermarket shelves pictured Wegmans in Brooklyn soldout online grocers FoodKick MaxDelivery as coronavirusfearing shoppers stock up httpstcoGr76pcrLWh httpstcoivMKMsqdT1,"Evaluate the sentiment expressed in the tweet: 'TRENDING New Yorkers encounter empty supermarket shelves pictured Wegmans in Brooklyn soldout online grocers FoodKick MaxDelivery as coronavirusfearing shoppers stock up httpstcoGr76pcrLWh httpstcoivMKMsqdT1'. Pick one of the sentiment labels: Positive, Extremely positive, Negative, Extremely Negative. Justify your selection with a brief explanation.",Negative,"The tweet expresses concern and fear about the empty supermarket shelves. The author uses words like ""soldout"" and ""stock up"" to indicate that people are buying large amounts of food and supplies in preparation for a potential coronavirus outbreak. This suggests that people are worried about the future and are taking steps to protect themselves."
+2,When I couldnt find hand sanitizer at Fred Meyer I turned to Amazon But 11497 for a 2 pack of PurellCheck out how  coronavirus concerns are driving up prices httpstcoygbipBflMY,"Analyze the tweet: 'When I couldnt find hand sanitizer at Fred Meyer I turned to Amazon But 11497 for a 2 pack of PurellCheck out how  coronavirus concerns are driving up prices httpstcoygbipBflMY'. Select a label from the following options to annotate the tweet: Positive, Extremely positive, Negative, Extremely Negative. Give a reason for the choice of selected label.",Negative,The tweet expresses frustration over the inability to find hand sanitizer at a local store and the subsequent discovery of inflated prices on Amazon.
+3,Find out how you can protect yourself and loved ones from coronavirus ,"Annotate the following tweet: 'Find out how you can protect yourself and loved ones from coronavirus '. Only use one of the following labels: Positive, Extremely positive, Negative, Extremely Negative. Also Provide an explanation for the annotation.",Unknown sentiment,
+4,"Panic buying hits NewYork City as anxious shoppers stock up on foodampmedical supplies after healthcare worker in her 30s becomes BigApple 1st confirmed coronavirus patient OR a Bloomberg staged event
+
+
+
+httpstcoIASiReGPC4
+
+
+
+QAnon QAnon2018 QAnon2020 
+
+Election2020 CDC httpstco29isZOewxu","Analyze the tweet: 'Panic buying hits NewYork City as anxious shoppers stock up on foodampmedical supplies after healthcare worker in her 30s becomes BigApple 1st confirmed coronavirus patient OR a Bloomberg staged event
+
+
+
+httpstcoIASiReGPC4
+
+
+
+QAnon QAnon2018 QAnon2020 
+
+Election2020 CDC httpstco29isZOewxu'. Select a label from the following options to annotate the tweet: Positive, Extremely positive, Negative, Extremely Negative. Give a reason for the choice of selected label.",Extremely Negative,"The tweet implies that the confirmed coronavirus patient in NewYork City is a staged event by Bloomberg, which is a negative and conspiratorial view of the situation."
